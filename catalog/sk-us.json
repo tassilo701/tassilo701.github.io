@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "slim-n-trim-strawberry",
+    "displayName": "Slim-N-Trim Strawberry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 200,
+        "proteinG": 8,
+        "sugarG": 22,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 300,
+        "proteinG": 12,
+        "sugarG": 33,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "slim-n-trim-blueberry",
+    "displayName": "Slim-N-Trim Blueberry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 220,
+        "proteinG": 8,
+        "sugarG": 24,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 330,
+        "proteinG": 12,
+        "sugarG": 36,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "metabolism-boost-strawberry-pineapple",
+    "displayName": "Metabolism Boost (Strawberry Pineapple)",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 270,
+        "proteinG": 16,
+        "sugarG": 20,
+        "caffeineMg": 45
+      },
+      "32": {
+        "kcal": 405,
+        "proteinG": 24,
+        "sugarG": 30,
+        "caffeineMg": 67.5,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "gladiator-strawberry",
+    "displayName": "Gladiator Strawberry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 250,
+        "proteinG": 45,
+        "sugarG": 2,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 375,
+        "proteinG": 67.5,
+        "sugarG": 3,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "activator-strawberry",
+    "displayName": "The Activator Strawberry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 260,
+        "proteinG": 29,
+        "sugarG": 18,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 390,
+        "proteinG": 43.5,
+        "sugarG": 27,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "immune-builder-mixed-berry",
+    "displayName": "Immune Builder Mixed Berry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 6,
+        "sugarG": 28,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 9,
+        "sugarG": 42,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "angel-food",
+    "displayName": "Angel Food",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 6,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 9,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "pure-recharge-strawberry",
+    "displayName": "Pure Recharge Strawberry",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 330,
+        "proteinG": 8,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 495,
+        "proteinG": 12,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "strawberry-x-treme",
+    "displayName": "Strawberry X-Treme",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 390,
+        "proteinG": 5,
+        "sugarG": 55,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 585,
+        "proteinG": 7.5,
+        "sugarG": 82.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "mangofest",
+    "displayName": "Mangofest",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 430,
+        "proteinG": 4,
+        "sugarG": 70,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 645,
+        "proteinG": 6,
+        "sugarG": 105,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "caribbean-way",
+    "displayName": "Caribbean Way",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 500,
+        "proteinG": 4,
+        "sugarG": 90,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 750,
+        "proteinG": 6,
+        "sugarG": 135,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "pineapple-surf",
+    "displayName": "Pineapple Surf",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 470,
+        "proteinG": 3,
+        "sugarG": 85,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 705,
+        "proteinG": 4.5,
+        "sugarG": 127.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "shredder-chocolate",
+    "displayName": "The Shredder Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 230,
+        "proteinG": 32,
+        "sugarG": 8,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 345,
+        "proteinG": 48,
+        "sugarG": 12,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "gladiator-chocolate",
+    "displayName": "Gladiator Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 240,
+        "proteinG": 45,
+        "sugarG": 2,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 360,
+        "proteinG": 67.5,
+        "sugarG": 3,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "lean1-chocolate",
+    "displayName": "Lean1 Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 250,
+        "proteinG": 24,
+        "sugarG": 18,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 375,
+        "proteinG": 36,
+        "sugarG": 27,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "keto-champ-chocolate",
+    "displayName": "Keto Champ Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 26,
+        "sugarG": 2,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 39,
+        "sugarG": 3,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "slim-n-trim-chocolate",
+    "displayName": "Slim-N-Trim Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 16,
+        "sugarG": 20,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 24,
+        "sugarG": 30,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "original-high-protein-chocolate",
+    "displayName": "Original High Protein Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 32,
+        "sugarG": 24,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 48,
+        "sugarG": 36,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "gladiator-chocolate-peanut-butter",
+    "displayName": "Gladiator Chocolate + peanut butter",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 420,
+        "proteinG": 45,
+        "sugarG": 3,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 630,
+        "proteinG": 67.5,
+        "sugarG": 4.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": true,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "meal",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "peanut-power-plus-chocolate",
+    "displayName": "Peanut Power Plus Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 590,
+        "proteinG": 28,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 885,
+        "proteinG": 42,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "muscle-punch-plus",
+    "displayName": "Muscle Punch Plus",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 560,
+        "proteinG": 38,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 840,
+        "proteinG": 57,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "meal",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "hulk-chocolate",
+    "displayName": "The Hulk Chocolate",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 900,
+        "proteinG": 26,
+        "sugarG": 95,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 1350,
+        "proteinG": 39,
+        "sugarG": 142.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "activator-coffee",
+    "displayName": "The Activator Coffee",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 230,
+        "proteinG": 29,
+        "sugarG": 16,
+        "caffeineMg": 83
+      },
+      "32": {
+        "kcal": 345,
+        "proteinG": 43.5,
+        "sugarG": 24,
+        "caffeineMg": 124.5,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "gladiator-vanilla-cold-brew",
+    "displayName": "Gladiator Vanilla + cold brew",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 230,
+        "proteinG": 45,
+        "sugarG": 1,
+        "caffeineMg": 80
+      },
+      "32": {
+        "kcal": 345,
+        "proteinG": 67.5,
+        "sugarG": 1.5,
+        "caffeineMg": 120,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": true,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "keto-champ-coffee",
+    "displayName": "Keto Champ Coffee",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 26,
+        "sugarG": 2,
+        "caffeineMg": 90
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 39,
+        "sugarG": 3,
+        "caffeineMg": 135,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "coffee-high-protein-vanilla",
+    "displayName": "Coffee High Protein Vanilla",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 30,
+        "sugarG": 27,
+        "caffeineMg": 85
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 45,
+        "sugarG": 40.5,
+        "caffeineMg": 127.5,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "meal",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "coffee-high-protein-almond-mocha",
+    "displayName": "Coffee High Protein Almond Mocha",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 410,
+        "proteinG": 30,
+        "sugarG": 35,
+        "caffeineMg": 85
+      },
+      "32": {
+        "kcal": 615,
+        "proteinG": 45,
+        "sugarG": 52.5,
+        "caffeineMg": 127.5,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "hulk-coffee",
+    "displayName": "The Hulk Coffee",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "coffee",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 900,
+        "proteinG": 26,
+        "sugarG": 90,
+        "caffeineMg": 80
+      },
+      "32": {
+        "kcal": 1350,
+        "proteinG": 39,
+        "sugarG": 135,
+        "caffeineMg": 120,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "gladiator-vanilla-spinach",
+    "displayName": "Gladiator Vanilla + spinach",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 230,
+        "proteinG": 45,
+        "sugarG": 1,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 345,
+        "proteinG": 67.5,
+        "sugarG": 1.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": true,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "lean-greens",
+    "displayName": "Lean Greens",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 250,
+        "proteinG": 8,
+        "sugarG": 12,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 375,
+        "proteinG": 12,
+        "sugarG": 18,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "daily-warrior",
+    "displayName": "Daily Warrior",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 8,
+        "sugarG": 22,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 12,
+        "sugarG": 33,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "original-high-protein-pineapple-spinach",
+    "displayName": "Original High Protein Pineapple Spinach",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 350,
+        "proteinG": 32,
+        "sugarG": 22,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 525,
+        "proteinG": 48,
+        "sugarG": 33,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "veggie-carrot-kale-dream",
+    "displayName": "Veggie Carrot Kale Dream",
+    "chain": "smoothie-king-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 330,
+        "proteinG": 6,
+        "sugarG": 24,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 495,
+        "proteinG": 9,
+        "sugarG": 36,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.smoothieking.com/nutrition/",
+    "sourceRetrievedOn": "2026-09-03",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  }
+]

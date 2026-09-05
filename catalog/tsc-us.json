@@ -1,0 +1,581 @@
+[
+  {
+    "id": "tsc-island-green",
+    "displayName": "Island Green",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 410,
+        "proteinG": 6,
+        "sugarG": 72,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 615,
+        "proteinG": 9,
+        "sugarG": 108,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-detox-island-green",
+    "displayName": "Detox Island Green",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 180,
+        "proteinG": 4,
+        "sugarG": 29,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 270,
+        "proteinG": 6,
+        "sugarG": 43.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-sunrise-sunset",
+    "displayName": "Sunrise Sunset",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 380,
+        "proteinG": 4,
+        "sugarG": 78,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 570,
+        "proteinG": 6,
+        "sugarG": 117,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-bahama-mama",
+    "displayName": "Bahama Mama",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 520,
+        "proteinG": 7,
+        "sugarG": 95,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 780,
+        "proteinG": 10.5,
+        "sugarG": 142.5,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-mango-magic",
+    "displayName": "Mango Magic",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 450,
+        "proteinG": 6,
+        "sugarG": 88,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 675,
+        "proteinG": 9,
+        "sugarG": 132,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-blimey-limey",
+    "displayName": "Blimey Limey",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 320,
+        "proteinG": 3,
+        "sugarG": 68,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 480,
+        "proteinG": 4.5,
+        "sugarG": 102,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-peanut-butter-cup",
+    "displayName": "Peanut Butter Cup",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 690,
+        "proteinG": 22,
+        "sugarG": 78,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 1035,
+        "proteinG": 33,
+        "sugarG": 117,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-choc-peanut-paradise",
+    "displayName": "Chia Banana Boost",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "chocpb",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 480,
+        "proteinG": 18,
+        "sugarG": 52,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 720,
+        "proteinG": 27,
+        "sugarG": 78,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-coffee-mocha",
+    "displayName": "Mocha Madness",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 510,
+        "proteinG": 16,
+        "sugarG": 62,
+        "caffeineMg": 85
+      },
+      "32": {
+        "kcal": 765,
+        "proteinG": 24,
+        "sugarG": 93,
+        "caffeineMg": 127.5,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-jetty-punch",
+    "displayName": "Jetty Punch",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 420,
+        "proteinG": 5,
+        "sugarG": 82,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 630,
+        "proteinG": 7.5,
+        "sugarG": 123,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-kiwi-quench",
+    "displayName": "Kiwi Quencher",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 4,
+        "sugarG": 70,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 6,
+        "sugarG": 105,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-health-nut",
+    "displayName": "Health Nut",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 620,
+        "proteinG": 28,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 930,
+        "proteinG": 42,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-avocado-coco-lime",
+    "displayName": "Avocado Coco Lime",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 390,
+        "proteinG": 8,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 585,
+        "proteinG": 12,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-supergreen",
+    "displayName": "Supergreen",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 220,
+        "proteinG": 5,
+        "sugarG": 34,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 330,
+        "proteinG": 7.5,
+        "sugarG": 51,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-blueberry-bliss",
+    "displayName": "Blueberry Bliss",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 5,
+        "sugarG": 74,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 7.5,
+        "sugarG": 111,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "tsc-lean-machine",
+    "displayName": "Lean Machine",
+    "chain": "tropical-smoothie-cafe-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 290,
+        "proteinG": 20,
+        "sugarG": 28,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 435,
+        "proteinG": 30,
+        "sugarG": 42,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.tropicalsmoothiecafe.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  }
+]

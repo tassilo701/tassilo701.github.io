@@ -1,0 +1,21 @@
+{
+  "name": "Smoothie Match",
+  "short_name": "Smoothie Match",
+  "description": "Unofficial smoothie matcher. Free, on-device, no tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#C44569",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}

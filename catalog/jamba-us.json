@@ -1,0 +1,574 @@
+[
+  {
+    "id": "jamba-caribbean-passion",
+    "displayName": "Caribbean Passion",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 3,
+        "sugarG": 72,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 4.5,
+        "sugarG": 108,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-mango-a-go-go",
+    "displayName": "Mango-a-Go-Go",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 320,
+        "proteinG": 3,
+        "sugarG": 68,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 480,
+        "proteinG": 4.5,
+        "sugarG": 102,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-strawberry-surf-rider",
+    "displayName": "Strawberry Surf Rider",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 350,
+        "proteinG": 3,
+        "sugarG": 74,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 525,
+        "proteinG": 4.5,
+        "sugarG": 111,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-orange-dream-machine",
+    "displayName": "Orange Dream Machine",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 480,
+        "proteinG": 10,
+        "sugarG": 82,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 720,
+        "proteinG": 15,
+        "sugarG": 123,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-peach-perfection",
+    "displayName": "Peach Perfection",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 310,
+        "proteinG": 3,
+        "sugarG": 66,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 465,
+        "proteinG": 4.5,
+        "sugarG": 99,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-almond-milk-matcha",
+    "displayName": "Matcha Green Tea Blast",
+    "chain": "jamba-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 360,
+        "proteinG": 8,
+        "sugarG": 58,
+        "caffeineMg": 70
+      },
+      "32": {
+        "kcal": 540,
+        "proteinG": 12,
+        "sugarG": 87,
+        "caffeineMg": 105,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-greens-n-ginger",
+    "displayName": "Greens 'n Ginger",
+    "chain": "jamba-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 210,
+        "proteinG": 4,
+        "sugarG": 38,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 315,
+        "proteinG": 6,
+        "sugarG": 57,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-protein-berry-workout",
+    "displayName": "Protein Berry Workout",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 420,
+        "proteinG": 32,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 630,
+        "proteinG": 48,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-chocolate-mood",
+    "displayName": "Chocolate Mood",
+    "chain": "jamba-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 560,
+        "proteinG": 14,
+        "sugarG": 72,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 840,
+        "proteinG": 21,
+        "sugarG": 108,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-pb-chocolate-love",
+    "displayName": "Peanut Butter Mood",
+    "chain": "jamba-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 740,
+        "proteinG": 26,
+        "sugarG": 80,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 1110,
+        "proteinG": 39,
+        "sugarG": 120,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-coffee-protein",
+    "displayName": "Coffee Protein Smoothie",
+    "chain": "jamba-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 390,
+        "proteinG": 28,
+        "sugarG": 36,
+        "caffeineMg": 95
+      },
+      "32": {
+        "kcal": 585,
+        "proteinG": 42,
+        "sugarG": 54,
+        "caffeineMg": 142.5,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-vanilla-blue-sky",
+    "displayName": "Vanilla Blue Sky",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 380,
+        "proteinG": 6,
+        "sugarG": 70,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 570,
+        "proteinG": 9,
+        "sugarG": 105,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-kale-orange-power",
+    "displayName": "Great Greens",
+    "chain": "jamba-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 240,
+        "proteinG": 5,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 360,
+        "proteinG": 7.5,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-white-gummi",
+    "displayName": "White Gummi",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 4,
+        "sugarG": 84,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 6,
+        "sugarG": 126,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-lean-and-green",
+    "displayName": "Lean & Green",
+    "chain": "jamba-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 260,
+        "proteinG": 18,
+        "sugarG": 24,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 390,
+        "proteinG": 27,
+        "sugarG": 36,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "jamba-strawberry-whirl",
+    "displayName": "Strawberry Whirl",
+    "chain": "jamba-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 280,
+        "proteinG": 3,
+        "sugarG": 58,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 420,
+        "proteinG": 4.5,
+        "sugarG": 87,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.jamba.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  }
+]

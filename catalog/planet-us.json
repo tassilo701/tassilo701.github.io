@@ -1,0 +1,540 @@
+[
+  {
+    "id": "ps-low-carb-lifestyle",
+    "displayName": "Low Carb Lifestyle",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 180,
+        "proteinG": 20,
+        "sugarG": 8,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 270,
+        "proteinG": 30,
+        "sugarG": 12,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-space-berry",
+    "displayName": "Space Berry",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 320,
+        "proteinG": 5,
+        "sugarG": 58,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 480,
+        "proteinG": 7.5,
+        "sugarG": 87,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-tropical-twist",
+    "displayName": "Tropical Twist",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 360,
+        "proteinG": 4,
+        "sugarG": 68,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 540,
+        "proteinG": 6,
+        "sugarG": 102,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-peach-please",
+    "displayName": "Peach Please",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 300,
+        "proteinG": 4,
+        "sugarG": 54,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 450,
+        "proteinG": 6,
+        "sugarG": 81,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-chocolate-thunder",
+    "displayName": "Chocolate Thunder",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 520,
+        "proteinG": 30,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 780,
+        "proteinG": 45,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-peanut-butter-cup",
+    "displayName": "Peanut Butter Cup",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 610,
+        "proteinG": 28,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 915,
+        "proteinG": 42,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-mocha-java",
+    "displayName": "Mocha Java",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 440,
+        "proteinG": 22,
+        "sugarG": 46,
+        "caffeineMg": 90
+      },
+      "32": {
+        "kcal": 660,
+        "proteinG": 33,
+        "sugarG": 69,
+        "caffeineMg": 135,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-spinach-symphony",
+    "displayName": "Spinach Symphony",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 220,
+        "proteinG": 6,
+        "sugarG": 32,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 330,
+        "proteinG": 9,
+        "sugarG": 48,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-green-machine",
+    "displayName": "Green Machine",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 10,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 15,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-protein-power",
+    "displayName": "Protein Power",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 380,
+        "proteinG": 34,
+        "sugarG": 28,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 570,
+        "proteinG": 51,
+        "sugarG": 42,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-strawberry-fields",
+    "displayName": "Strawberry Fields",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 260,
+        "proteinG": 4,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 390,
+        "proteinG": 6,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-banana-boat",
+    "displayName": "Banana Boat",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 8,
+        "sugarG": 62,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 12,
+        "sugarG": 93,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "meal",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-espresso-blast",
+    "displayName": "Espresso Blast",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "coffee",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 290,
+        "proteinG": 24,
+        "sugarG": 18,
+        "caffeineMg": 110
+      },
+      "32": {
+        "kcal": 435,
+        "proteinG": 36,
+        "sugarG": 27,
+        "caffeineMg": 165,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-mango-tango",
+    "displayName": "Mango Tango",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 4,
+        "sugarG": 64,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 6,
+        "sugarG": 96,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "ps-lean-green",
+    "displayName": "Lean Green",
+    "chain": "planet-smoothie-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 240,
+        "proteinG": 22,
+        "sugarG": 16,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 360,
+        "proteinG": 33,
+        "sugarG": 24,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.planetsmoothie.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  }
+]

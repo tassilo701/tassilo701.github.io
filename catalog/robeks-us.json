@@ -1,0 +1,577 @@
+[
+  {
+    "id": "rbk-acai-energizer",
+    "displayName": "Acai Energizer",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 360,
+        "proteinG": 6,
+        "sugarG": 58,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 540,
+        "proteinG": 9,
+        "sugarG": 87,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-strawberry-fields",
+    "displayName": "Strawberry Fields",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 340,
+        "proteinG": 5,
+        "sugarG": 62,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 510,
+        "proteinG": 7.5,
+        "sugarG": 93,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-mango-tango",
+    "displayName": "Mango Tango",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 320,
+        "proteinG": 4,
+        "sugarG": 60,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 480,
+        "proteinG": 6,
+        "sugarG": 90,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-pineapple-paradise",
+    "displayName": "Pineapple Paradise",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 350,
+        "proteinG": 4,
+        "sugarG": 66,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 525,
+        "proteinG": 6,
+        "sugarG": 99,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-pb-banana",
+    "displayName": "Peanut Butter Banana",
+    "chain": "robeks-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 580,
+        "proteinG": 26,
+        "sugarG": 48,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 870,
+        "proteinG": 39,
+        "sugarG": 72,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-chocolate-extreme",
+    "displayName": "Chocolate Extreme",
+    "chain": "robeks-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 540,
+        "proteinG": 24,
+        "sugarG": 52,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 810,
+        "proteinG": 36,
+        "sugarG": 78,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-coffee-buzz",
+    "displayName": "Coffee Buzz",
+    "chain": "robeks-us",
+    "flavorFamily": "coffee",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 420,
+        "proteinG": 20,
+        "sugarG": 44,
+        "caffeineMg": 100
+      },
+      "32": {
+        "kcal": 630,
+        "proteinG": 30,
+        "sugarG": 66,
+        "caffeineMg": 150,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-green-goddess",
+    "displayName": "Green Goddess",
+    "chain": "robeks-us",
+    "flavorFamily": "green",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 230,
+        "proteinG": 5,
+        "sugarG": 36,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 345,
+        "proteinG": 7.5,
+        "sugarG": 54,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-kale-yes",
+    "displayName": "Kale Yes",
+    "chain": "robeks-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 310,
+        "proteinG": 8,
+        "sugarG": 42,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 465,
+        "proteinG": 12,
+        "sugarG": 63,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-protein-plus",
+    "displayName": "Protein Plus Berry",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 400,
+        "proteinG": 32,
+        "sugarG": 34,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 600,
+        "proteinG": 48,
+        "sugarG": 51,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-berry-blast",
+    "displayName": "Berry Blast",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 280,
+        "proteinG": 4,
+        "sugarG": 50,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 420,
+        "proteinG": 6,
+        "sugarG": 75,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-mocha-madness",
+    "displayName": "Mocha Madness",
+    "chain": "robeks-us",
+    "flavorFamily": "coffee",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 510,
+        "proteinG": 16,
+        "sugarG": 58,
+        "caffeineMg": 85
+      },
+      "32": {
+        "kcal": 765,
+        "proteinG": 24,
+        "sugarG": 87,
+        "caffeineMg": 127.5,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": true,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-avocado-dream",
+    "displayName": "Avocado Dream",
+    "chain": "robeks-us",
+    "flavorFamily": "green",
+    "body": "mid",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 380,
+        "proteinG": 10,
+        "sugarG": 28,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 570,
+        "proteinG": 15,
+        "sugarG": 42,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "meal",
+      "lean"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-lean-machine",
+    "displayName": "Lean Machine",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "light",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 250,
+        "proteinG": 22,
+        "sugarG": 18,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 375,
+        "proteinG": 33,
+        "sugarG": 27,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "lean",
+      "muscle"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-orange-julius-style",
+    "displayName": "Orange Cream",
+    "chain": "robeks-us",
+    "flavorFamily": "fruity",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 470,
+        "proteinG": 8,
+        "sugarG": 72,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 705,
+        "proteinG": 12,
+        "sugarG": 108,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat"
+    ],
+    "estimated": true
+  },
+  {
+    "id": "rbk-almond-joy-ish",
+    "displayName": "Almond Cocoa Crunch",
+    "chain": "robeks-us",
+    "flavorFamily": "chocpb",
+    "body": "heavy",
+    "sizeOz": [
+      20,
+      32
+    ],
+    "nutritionBySize": {
+      "20": {
+        "kcal": 560,
+        "proteinG": 18,
+        "sugarG": 54,
+        "caffeineMg": 0
+      },
+      "32": {
+        "kcal": 840,
+        "proteinG": 27,
+        "sugarG": 81,
+        "caffeineMg": 0,
+        "approximate": true
+      }
+    },
+    "allergens": [
+      "nuts"
+    ],
+    "containsCaffeine": false,
+    "isCustom": false,
+    "sourceUrl": "https://www.robeks.com/",
+    "sourceRetrievedOn": "2026-09-05",
+    "goalTags": [
+      "treat",
+      "meal"
+    ],
+    "estimated": true
+  }
+]
