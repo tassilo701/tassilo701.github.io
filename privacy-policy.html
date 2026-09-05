@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#C44569" />
+  <title>Privacy Policy — Smoothie Match</title>
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #F4E6D4; color: #3D2C29; line-height: 1.5; }
+    main { max-width: 40rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; background: #FFF8F0; min-height: 100vh; box-sizing: border-box; }
+    h1 { font-size: 1.75rem; margin: 0 0 0.75rem; letter-spacing: -0.02em; }
+    h2 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+    p { margin: 0.65rem 0; font-size: 1rem; }
+    .muted { color: #6B534C; font-size: 0.95rem; }
+    a { color: #9C2F52; }
+    .card { margin-top: 1.25rem; padding: 0.9rem 1rem; background: #FCEDE4; border-radius: 12px; font-size: 0.9rem; color: #6B534C; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Privacy Policy</h1>
+    <p class="muted">Smoothie Match · last updated 5 Sep 2026 · works offline in-app at Settings → Privacy</p>
+    <p>Smoothie Match does not send your quiz answers, recents, try-later list, or nutrition views off your device. There is no location permission, no advertising ID use, and no analytics or tracking SDK.</p>
+    <h2>Catalog and offline use</h2>
+    <p>The drink catalog is bundled with the app (JSON imported at build time). Matching works offline after install; we do not fetch menus from the network at runtime.</p>
+    <h2>Optional local account</h2>
+    <p>Optional accounts are local-first: email and a salted password hash stay in AsyncStorage on iOS or localStorage in the browser. This is demo-grade auth, not production security. Clearing data in Settings removes that local copy. We cannot see it.</p>
+    <h2>Guests and sharing</h2>
+    <p>Guests can use the full quiz without creating an account. Copy and share only run when you tap those buttons, using the system clipboard or share sheet. Fonts are system UI fonts only — no Google Fonts CDN.</p>
+    <h2>App Store privacy label</h2>
+    <p>For normal guest use we recommend <strong>Data Not Collected</strong> in App Store Connect. Optional local accounts store email on device only; we do not receive or transmit it.</p>
+    <h2>Contact</h2>
+    <p>Questions: <a href="mailto:support@smoothiematch.app">support@smoothiematch.app</a> (placeholder inbox).</p>
+    <div class="card">Unofficial. Not affiliated with Tropical Smoothie Cafe, Smoothie King, Jamba, Planet Smoothie, Robeks, or any smoothie chain. Nutrition is unofficial, approximate, and dated. Confirm in store.</div>
+    <p class="muted" style="margin-top:1.5rem">In-app route (offline): /privacy · This static page ships in the web export as /privacy-policy.html for App Store Connect Privacy Policy URL once hosted.</p>
+  </main>
+</body>
+</html>
