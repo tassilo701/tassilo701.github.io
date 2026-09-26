@@ -30,7 +30,6 @@
     "sourceUrl": "https://www.robeks.com/",
     "sourceRetrievedOn": "2026-09-05",
     "goalTags": [
-      "lean",
       "treat"
     ],
     "estimated": true
@@ -101,8 +100,7 @@
     "sourceUrl": "https://www.robeks.com/",
     "sourceRetrievedOn": "2026-09-05",
     "goalTags": [
-      "treat",
-      "lean"
+      "treat"
     ],
     "estimated": true
   },
@@ -317,7 +315,6 @@
     "sourceUrl": "https://www.robeks.com/",
     "sourceRetrievedOn": "2026-09-05",
     "goalTags": [
-      "lean",
       "meal"
     ],
     "estimated": true
@@ -388,7 +385,6 @@
     "sourceUrl": "https://www.robeks.com/",
     "sourceRetrievedOn": "2026-09-05",
     "goalTags": [
-      "lean",
       "treat"
     ],
     "estimated": true
